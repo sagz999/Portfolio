@@ -1,0 +1,31 @@
+#section{
+    background-color:black;
+    color:white;
+    width:auto;
+    height:auto;
+}
+body{
+    background-color:black;
+    color:white;
+    
+}
+.card-img-top
+{
+    height:15rem;
+}
+.card-text{
+    font-size:small;
+}
+#headers{
+    z-index:1;
+}
+#yellow{
+    color:yellow;
+}
+
+.form-control{
+    background:#212529;
+    border-color: black;
+    border-radius: 1rem;
+}
+
